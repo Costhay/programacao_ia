@@ -52,10 +52,4 @@ if st.button("Analisar ricso"):
     else:
         st.success(f"*Cliente estável dentro da plataforma* ({probabilidade*100:.1f}%)")
 
-
-
-
-
-
-
-# estou com sono
+#Enviar informacoes no Git
